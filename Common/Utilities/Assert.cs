@@ -6,7 +6,7 @@ namespace Common.Utilities
 {
     public static class Assert
     {
-        //بررسی پامترهای ورودی که نال نباشند //checkout essi
+        //بررسی پامترهای ورودی که نال نباشند //checkout essi1
         public static void NotNull<T>(T obj, string name, string message = null)
             where T : class
         {
