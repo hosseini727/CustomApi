@@ -1,0 +1,15 @@
+C:\Users\e-hosseini\Desktop\ApiCustom\CustomApi\Entites\obj\Debug\net6.0\Entites.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e-hosseini\Desktop\ApiCustom\CustomApi\Entites\obj\Debug\net6.0\Entites.AssemblyInfoInputs.cache
+C:\Users\e-hosseini\Desktop\ApiCustom\CustomApi\Entites\obj\Debug\net6.0\Entites.AssemblyInfo.cs
+C:\Users\e-hosseini\Desktop\ApiCustom\CustomApi\Entites\obj\Debug\net6.0\Entites.csproj.CoreCompileInputs.cache
+C:\Users\e-hosseini\Desktop\ApiCustom\CustomApi\Entites\bin\Debug\net6.0\Entites.deps.json
+C:\Users\e-hosseini\Desktop\ApiCustom\CustomApi\Entites\bin\Debug\net6.0\Entites.dll
+C:\Users\e-hosseini\Desktop\ApiCustom\CustomApi\Entites\bin\Debug\net6.0\ref\Entites.dll
+C:\Users\e-hosseini\Desktop\ApiCustom\CustomApi\Entites\bin\Debug\net6.0\Entites.pdb
+C:\Users\e-hosseini\Desktop\ApiCustom\CustomApi\Entites\bin\Debug\net6.0\Common.dll
+C:\Users\e-hosseini\Desktop\ApiCustom\CustomApi\Entites\bin\Debug\net6.0\Common.pdb
+C:\Users\e-hosseini\Desktop\ApiCustom\CustomApi\Entites\obj\Debug\net6.0\Entites.csproj.AssemblyReference.cache
+C:\Users\e-hosseini\Desktop\ApiCustom\CustomApi\Entites\obj\Debug\net6.0\Entites.csproj.CopyComplete
+C:\Users\e-hosseini\Desktop\ApiCustom\CustomApi\Entites\obj\Debug\net6.0\Entites.dll
+C:\Users\e-hosseini\Desktop\ApiCustom\CustomApi\Entites\obj\Debug\net6.0\ref\Entites.dll
+C:\Users\e-hosseini\Desktop\ApiCustom\CustomApi\Entites\obj\Debug\net6.0\Entites.pdb

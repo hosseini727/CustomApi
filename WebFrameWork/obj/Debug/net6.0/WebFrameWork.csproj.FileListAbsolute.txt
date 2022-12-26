@@ -1,0 +1,17 @@
+C:\Users\e-hosseini\Desktop\ApiCustom\CustomApi\WebFrameWork\bin\Debug\net6.0\WebFrameWork.deps.json
+C:\Users\e-hosseini\Desktop\ApiCustom\CustomApi\WebFrameWork\bin\Debug\net6.0\WebFrameWork.dll
+C:\Users\e-hosseini\Desktop\ApiCustom\CustomApi\WebFrameWork\bin\Debug\net6.0\ref\WebFrameWork.dll
+C:\Users\e-hosseini\Desktop\ApiCustom\CustomApi\WebFrameWork\bin\Debug\net6.0\WebFrameWork.pdb
+C:\Users\e-hosseini\Desktop\ApiCustom\CustomApi\WebFrameWork\obj\Debug\net6.0\WebFrameWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e-hosseini\Desktop\ApiCustom\CustomApi\WebFrameWork\obj\Debug\net6.0\WebFrameWork.AssemblyInfoInputs.cache
+C:\Users\e-hosseini\Desktop\ApiCustom\CustomApi\WebFrameWork\obj\Debug\net6.0\WebFrameWork.AssemblyInfo.cs
+C:\Users\e-hosseini\Desktop\ApiCustom\CustomApi\WebFrameWork\obj\Debug\net6.0\WebFrameWork.csproj.CoreCompileInputs.cache
+C:\Users\e-hosseini\Desktop\ApiCustom\CustomApi\WebFrameWork\obj\Debug\net6.0\WebFrameWork.dll
+C:\Users\e-hosseini\Desktop\ApiCustom\CustomApi\WebFrameWork\obj\Debug\net6.0\ref\WebFrameWork.dll
+C:\Users\e-hosseini\Desktop\ApiCustom\CustomApi\WebFrameWork\obj\Debug\net6.0\WebFrameWork.pdb
+C:\Users\e-hosseini\Desktop\ApiCustom\CustomApi\WebFrameWork\bin\Debug\net6.0\WebFrameWork.runtimeconfig.json
+C:\Users\e-hosseini\Desktop\ApiCustom\CustomApi\WebFrameWork\obj\Debug\net6.0\WebFrameWork.csproj.AssemblyReference.cache
+C:\Users\e-hosseini\Desktop\ApiCustom\CustomApi\WebFrameWork\obj\Debug\net6.0\WebFrameWork.genruntimeconfig.cache
+C:\Users\e-hosseini\Desktop\ApiCustom\CustomApi\WebFrameWork\bin\Debug\net6.0\Services.dll
+C:\Users\e-hosseini\Desktop\ApiCustom\CustomApi\WebFrameWork\bin\Debug\net6.0\Services.pdb
+C:\Users\e-hosseini\Desktop\ApiCustom\CustomApi\WebFrameWork\obj\Debug\net6.0\WebFrameWork.csproj.CopyComplete

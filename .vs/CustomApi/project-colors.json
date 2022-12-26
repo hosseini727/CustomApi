@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b2d51a81-7835-412b-8b8f-0ffccdf491d1": {
+      "ProjectGuid": "b2d51a81-7835-412b-8b8f-0ffccdf491d1",
+      "DisplayName": "CustomApi",
+      "ColorIndex": 0
+    },
+    "6897e1b0-6a65-4ea6-a72f-d56bbb0f49e6": {
+      "ProjectGuid": "6897e1b0-6a65-4ea6-a72f-d56bbb0f49e6",
+      "DisplayName": "Common",
+      "ColorIndex": 1
+    },
+    "9b5e1de6-01f5-472d-affa-796bad8bb912": {
+      "ProjectGuid": "9b5e1de6-01f5-472d-affa-796bad8bb912",
+      "DisplayName": "Data",
+      "ColorIndex": 2
+    },
+    "7e65441c-cc19-40ad-ae54-9c5d336c1667": {
+      "ProjectGuid": "7e65441c-cc19-40ad-ae54-9c5d336c1667",
+      "DisplayName": "Entites",
+      "ColorIndex": 3
+    },
+    "346918fd-1f9d-410e-8f07-28a3122069b1": {
+      "ProjectGuid": "346918fd-1f9d-410e-8f07-28a3122069b1",
+      "DisplayName": "Services",
+      "ColorIndex": 4
+    },
+    "4a82de4f-6959-46b5-b6e7-497d2cf9af4c": {
+      "ProjectGuid": "4a82de4f-6959-46b5-b6e7-497d2cf9af4c",
+      "DisplayName": "WebFrameWork",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
