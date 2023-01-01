@@ -8,7 +8,7 @@ namespace Entites
 {
     public class Invoice : BaseEntity
     {
-        public int Price { get; set; }
+        public int Price { get; set; }//ss
         public int NetPrice { get; set; }
         public ICollection<InvoiceItem> InvoiceItem { get; set; }
     }
