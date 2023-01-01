@@ -2427,11 +2427,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\gneral_api\\ApiCustom\\CustomApi\\Common\\Common.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\gneral_api\\CustomApi\\Common\\Common.csproj",
       "projectName": "Common",
-      "projectPath": "C:\\Users\\ASUS\\Desktop\\gneral_api\\ApiCustom\\CustomApi\\Common\\Common.csproj",
+      "projectPath": "C:\\Users\\ASUS\\Desktop\\gneral_api\\CustomApi\\Common\\Common.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\Desktop\\gneral_api\\ApiCustom\\CustomApi\\Common\\obj\\",
+      "outputPath": "C:\\Users\\ASUS\\Desktop\\gneral_api\\CustomApi\\Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

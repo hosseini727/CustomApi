@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\Desktop\\gneral_api\\ApiCustom\\CustomApi\\Data\\Data.csproj": {}
+    "C:\\Users\\ASUS\\Desktop\\gneral_api\\CustomApi\\Data\\Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\Desktop\\gneral_api\\ApiCustom\\CustomApi\\Common\\Common.csproj": {
+    "C:\\Users\\ASUS\\Desktop\\gneral_api\\CustomApi\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\gneral_api\\ApiCustom\\CustomApi\\Common\\Common.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\gneral_api\\CustomApi\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "C:\\Users\\ASUS\\Desktop\\gneral_api\\ApiCustom\\CustomApi\\Common\\Common.csproj",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\gneral_api\\CustomApi\\Common\\Common.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\Desktop\\gneral_api\\ApiCustom\\CustomApi\\Common\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\Desktop\\gneral_api\\CustomApi\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -75,14 +75,14 @@
         }
       }
     },
-    "C:\\Users\\ASUS\\Desktop\\gneral_api\\ApiCustom\\CustomApi\\Data\\Data.csproj": {
+    "C:\\Users\\ASUS\\Desktop\\gneral_api\\CustomApi\\Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\gneral_api\\ApiCustom\\CustomApi\\Data\\Data.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\gneral_api\\CustomApi\\Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "C:\\Users\\ASUS\\Desktop\\gneral_api\\ApiCustom\\CustomApi\\Data\\Data.csproj",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\gneral_api\\CustomApi\\Data\\Data.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\Desktop\\gneral_api\\ApiCustom\\CustomApi\\Data\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\Desktop\\gneral_api\\CustomApi\\Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -102,8 +102,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ASUS\\Desktop\\gneral_api\\ApiCustom\\CustomApi\\Entites\\Entites.csproj": {
-                "projectPath": "C:\\Users\\ASUS\\Desktop\\gneral_api\\ApiCustom\\CustomApi\\Entites\\Entites.csproj"
+              "C:\\Users\\ASUS\\Desktop\\gneral_api\\CustomApi\\Entites\\Entites.csproj": {
+                "projectPath": "C:\\Users\\ASUS\\Desktop\\gneral_api\\CustomApi\\Entites\\Entites.csproj"
               }
             }
           }
@@ -136,14 +136,14 @@
         }
       }
     },
-    "C:\\Users\\ASUS\\Desktop\\gneral_api\\ApiCustom\\CustomApi\\Entites\\Entites.csproj": {
+    "C:\\Users\\ASUS\\Desktop\\gneral_api\\CustomApi\\Entites\\Entites.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\gneral_api\\ApiCustom\\CustomApi\\Entites\\Entites.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\gneral_api\\CustomApi\\Entites\\Entites.csproj",
         "projectName": "Entites",
-        "projectPath": "C:\\Users\\ASUS\\Desktop\\gneral_api\\ApiCustom\\CustomApi\\Entites\\Entites.csproj",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\gneral_api\\CustomApi\\Entites\\Entites.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\Desktop\\gneral_api\\ApiCustom\\CustomApi\\Entites\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\Desktop\\gneral_api\\CustomApi\\Entites\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -163,8 +163,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ASUS\\Desktop\\gneral_api\\ApiCustom\\CustomApi\\Common\\Common.csproj": {
-                "projectPath": "C:\\Users\\ASUS\\Desktop\\gneral_api\\ApiCustom\\CustomApi\\Common\\Common.csproj"
+              "C:\\Users\\ASUS\\Desktop\\gneral_api\\CustomApi\\Common\\Common.csproj": {
+                "projectPath": "C:\\Users\\ASUS\\Desktop\\gneral_api\\CustomApi\\Common\\Common.csproj"
               }
             }
           }

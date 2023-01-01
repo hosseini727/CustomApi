@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\gneral_api\\ApiCustom\\CustomApi\\Services\\Services.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\gneral_api\\CustomApi\\Services\\Services.csproj",
       "projectName": "Services",
-      "projectPath": "C:\\Users\\ASUS\\Desktop\\gneral_api\\ApiCustom\\CustomApi\\Services\\Services.csproj",
+      "projectPath": "C:\\Users\\ASUS\\Desktop\\gneral_api\\CustomApi\\Services\\Services.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\Desktop\\gneral_api\\ApiCustom\\CustomApi\\Services\\obj\\",
+      "outputPath": "C:\\Users\\ASUS\\Desktop\\gneral_api\\CustomApi\\Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
